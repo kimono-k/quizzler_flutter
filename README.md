@@ -2,6 +2,8 @@
 
 A simple Flutter quiz app that tests your knowledge with a series of true/false questions.
 
+https://github.com/user-attachments/assets/b80f4a44-90af-4533-9827-20fbf7f38126
+
 ## Features
 
 * Displays a series of multiple-choice questions.
